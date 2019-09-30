@@ -1,4 +1,4 @@
-#CameraSystem
+# CameraSystem
 
 Ordenar.py, Tamano.py, Distancia.py and Nuevo_tamano.py are scripts in which there are created functions that are used in real_time_object_detection2.py.
 
